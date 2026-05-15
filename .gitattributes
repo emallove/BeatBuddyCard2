@@ -1,0 +1,5 @@
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.bbf filter=lfs diff=lfs merge=lfs -text
+*.DRM filter=lfs diff=lfs merge=lfs -text
+*.DRMX filter=lfs diff=lfs merge=lfs -text
