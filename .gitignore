@@ -1,0 +1,5 @@
+# Ignore Vim swap and temporary files
+*.swp
+*.swo
+*.sw[a-z]
+*.un~
